@@ -12,5 +12,11 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require turbolinks
+//= require theme/bootstrap.min
+//= require theme/jquery.easing.min
+//= require theme/classie
+//= require theme/cbpAnimatedHeader
+//= require theme/jqBootstrapValidation
+//= require theme/contact_me
+//= require theme/freelancer
 //= require_tree .
